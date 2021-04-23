@@ -29,6 +29,16 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 790,
+      "category": "food",
+      "title": "Clean Your Plate",
+      "description": "Put the food in your mouth.",
+      "location": "Your Mommas House",
+      "date": "July 04, 2022",
+      "time": "1:00",
+      "organizer": "Jerry Dang"
     }
   ]
 }
